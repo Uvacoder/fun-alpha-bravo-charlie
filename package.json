@@ -1,7 +1,7 @@
 {
   "name": "alpha-beta-charlie",
   "version": "0.0.1",
-  "homepage": "https://uvacoder.github.io/test-alpha-bravo-charlie",
+  "homepage": "https://test-alpha-bravo-charlie.vercel.app",
   "private": true,
   "dependencies": {
     "ace-css": "^1.1.0",
