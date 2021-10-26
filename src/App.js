@@ -45,7 +45,9 @@ class App extends Component {
 
     return (
       <div className="p2 container">
-        <div className="h3 sm-h2 caps">💬🔤✨</div>
+        <div className="h3 sm-h2 caps">
+          <span role="img" aria-labelledby="panda1">🐼💬🔤✨</span>
+        </div>
         <h1 className="m0 h2 sm-h1">Alpha Bravo Charlie</h1>
         <p className="mt0 mb3 h5 sm-h4">
           Convert names / phrases with a phonetic alphabet to aid with spelling
